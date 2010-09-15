@@ -1,0 +1,150 @@
+
+SciMark 2.0a
+
+Composite Score: 900.756169598992
+FFT (1024): 618.0866844419932
+SOR (100x100):   909.3700076256177
+Monte Carlo : 345.6992409730622
+Sparse matmult (N=1000, nz=5000): 742.1970418654106
+LU (100x100): 1888.4278730888761
+
+java.vendor: Sun Microsystems Inc.
+java.version: 1.7.0-internal
+os.arch: i386
+os.name: Linux
+os.version: 2.6.32-24-generic
+
+SciMark 2.0a
+
+Composite Score: 889.4615119395903
+FFT (1024): 608.809994483049
+SOR (100x100):   900.4462212801084
+Monte Carlo : 343.92755644326945
+Sparse matmult (N=1000, nz=5000): 740.310619992646
+LU (100x100): 1853.813167498879
+
+java.vendor: Sun Microsystems Inc.
+java.version: 1.7.0-internal
+os.arch: i386
+os.name: Linux
+os.version: 2.6.32-24-generic
+
+SciMark 2.0a
+
+Composite Score: 895.9548122037274
+FFT (1024): 619.623660584316
+SOR (100x100):   909.7994320813091
+Monte Carlo : 345.6992409730622
+Sparse matmult (N=1000, nz=5000): 741.9869815060604
+LU (100x100): 1862.6647458738896
+
+java.vendor: Sun Microsystems Inc.
+java.version: 1.7.0-internal
+os.arch: i386
+os.name: Linux
+os.version: 2.6.32-24-generic
+
+SciMark 2.0a
+
+Composite Score: 893.5543425815786
+FFT (1024): 614.3855752740163
+SOR (100x100):   909.3699053081638
+Monte Carlo : 335.33472100861445
+Sparse matmult (N=1000, nz=5000): 742.1970418654106
+LU (100x100): 1866.4844694516878
+
+java.vendor: Sun Microsystems Inc.
+java.version: 1.7.0-internal
+os.arch: i386
+os.name: Linux
+os.version: 2.6.32-24-generic
+
+SciMark 2.0a
+
+Composite Score: 895.136613823934
+FFT (1024): 617.2118383949385
+SOR (100x100):   909.3700076256177
+Monte Carlo : 345.6992409730622
+Sparse matmult (N=1000, nz=5000): 740.101625935256
+LU (100x100): 1863.300356190796
+
+java.vendor: Sun Microsystems Inc.
+java.version: 1.7.0-internal
+os.arch: i386
+os.name: Linux
+os.version: 2.6.32-24-generic
+
+SciMark 2.0a
+
+Composite Score: 897.5835290934203
+FFT (1024): 617.4303046225234
+SOR (100x100):   909.3700076256177
+Monte Carlo : 346.25662675395427
+Sparse matmult (N=1000, nz=5000): 742.6175697582037
+LU (100x100): 1872.243136706802
+
+java.vendor: Sun Microsystems Inc.
+java.version: 1.7.0-internal
+os.arch: i386
+os.name: Linux
+os.version: 2.6.32-24-generic
+
+SciMark 2.0a
+
+Composite Score: 900.0089710457169
+FFT (1024): 616.5573143697347
+SOR (100x100):   909.3700076256177
+Monte Carlo : 345.5879843914859
+Sparse matmult (N=1000, nz=5000): 740.1016757528696
+LU (100x100): 1888.4278730888761
+
+java.vendor: Sun Microsystems Inc.
+java.version: 1.7.0-internal
+os.arch: i386
+os.name: Linux
+os.version: 2.6.32-24-generic
+
+SciMark 2.0a
+
+Composite Score: 893.9753887879709
+FFT (1024): 620.7261663792119
+SOR (100x100):   909.7993296671991
+Monte Carlo : 335.3347459773934
+Sparse matmult (N=1000, nz=5000): 741.9869815060604
+LU (100x100): 1862.0297204099897
+
+java.vendor: Sun Microsystems Inc.
+java.version: 1.7.0-internal
+os.arch: i386
+os.name: Linux
+os.version: 2.6.32-24-generic
+
+SciMark 2.0a
+
+Composite Score: 894.070153390325
+FFT (1024): 619.183722648584
+SOR (100x100):   909.3700076256177
+Monte Carlo : 335.2300346492602
+Sparse matmult (N=1000, nz=5000): 741.3575132509089
+LU (100x100): 1865.209488777254
+
+java.vendor: Sun Microsystems Inc.
+java.version: 1.7.0-internal
+os.arch: i386
+os.name: Linux
+os.version: 2.6.32-24-generic
+
+SciMark 2.0a
+
+Composite Score: 895.2475369654774
+FFT (1024): 614.8187189530222
+SOR (100x100):   909.3700076256177
+Monte Carlo : 345.6992409730622
+Sparse matmult (N=1000, nz=5000): 741.776989974344
+LU (100x100): 1864.5727273013404
+
+java.vendor: Sun Microsystems Inc.
+java.version: 1.7.0-internal
+os.arch: i386
+os.name: Linux
+os.version: 2.6.32-24-generic
